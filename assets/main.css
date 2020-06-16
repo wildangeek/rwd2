@@ -1,0 +1,87 @@
+header {
+    background-image: url(https://wallpapercave.com/wp/wp2742875.jpg);
+    background-size: cover;
+  }
+  .jumbotron {
+    height: 500px;
+    color: aliceblue;
+  }
+  .jumbotron .desc-jumbotron {
+    padding-top: 200px;
+    margin-bottom: -200px;
+    padding-left: 50px;
+  }
+
+  .navbar h3 {
+    padding: 0 20px;
+    font-size: 25px;
+    color: aliceblue;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px 0 5px;
+    background: rgba(0, 0, 0, 0.3);
+  }
+  .navbar a {
+    color: aliceblue;
+  }
+  .navbar li {
+    font-size: 20px;
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .block-offer h1 {
+    text-align: center;
+    display: block;
+    padding: 20px 60px;
+  }
+
+  .offer {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+  }
+  .photo {
+    max-width: 70%;
+  }
+ 
+  .block-branch {
+    text-align: center;
+    display: block;
+    padding: 20px 60px;
+    background: pink;
+  }
+
+  .branch {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .branch-photos {
+    margin: 20px 20px;
+  }
+
+  .block-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .list-footer li {
+    font-size: 20px;
+    padding: 20px;
+  }
+  .list-footer ul {
+    padding: 5px;
+  }
+  
+  .map img {
+    width: 80%;
+  }

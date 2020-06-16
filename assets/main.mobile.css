@@ -1,0 +1,13 @@
+.navbar li {
+    display: block;
+    padding: 5px;
+  }
+  .offer {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .list-photos {
+    max-width: 80%;
+  }
